@@ -18,12 +18,23 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 5: [Titlul Lucrării / Scurtă descriere]
-- **Descriere:** Lucrul cu interfețe grafice, navigare și ecrane multiple.
-- **Fișiere și Cod:** [Vezi folderul laboratorului 5](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5)
+## Laboratorul 5.1: [Titlul primei părți]
+- **Descriere:** [Scurtă descriere pentru partea 5.1]
+- **Fișiere și Cod:** [Vezi folderul laboratorului 5.1](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5_1)
+- **Link util:** [https://snack.expo.dev/@julia7/lab5_1]([https://snack.expo.dev/@julia7/lab5_1](https://snack.expo.dev/@julia7/lab5_s1))
 - **Demonstrație Video (GIF):**  
 
-  ![Demo Lab 5](LAB5.gif)
+  ![Demo Lab 5.1](LAB5_1.gif)
+
+---
+
+## Laboratorul 5.2: [Titlul celei de-a doua părți]
+- **Descriere:** [Scurtă descriere pentru partea 5.2]
+- **Fișiere și Cod:** [Vezi folderul laboratorului 5.2](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5_2)
+- **Link util:** [https://snack.expo.dev/@julia7/lab5_2](https://snack.expo.dev/@julia7/lab5_2)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 5.2](LAB5_2.gif)
 
 ---
 
