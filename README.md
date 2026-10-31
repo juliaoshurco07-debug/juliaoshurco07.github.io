@@ -1,11 +1,89 @@
-# Sample Snack app
+# Portofoliu de Laborator – Dezvoltarea Aplicațiilor Mobile
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+- **Studentă:** Oșurco Iulia  
+- **Grupa:** IT2401  
+- **Instituția:** Universitatea Tehnica a Moldovei.Centrul Universitar "Bogdan Petriceicu Hasdeu” din Cahul  
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+Bun venit în portofoliul meu digital! Această pagină conține lucrările de laborator realizate în cadrul disciplinei.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+---
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+## Laboratorul 4: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Implementarea componentelor de bază și gestionarea stării în aplicații mobile.
+- **Fișiere și Cod:** [Vezi folderul laboratorului 4](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4)
+- **Link util:** [https://snack.expo.dev/@julia7/lab4](https://snack.expo.dev/@julia7/lab4)
+- **Demonstrație Video (GIF):**  
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+  ![Demo Lab 4](LAB4.gif)
+
+---
+
+## Laboratorul 5: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Lucrul cu interfețe grafice, navigare și ecrane multiple.
+- **Fișiere și Cod:** [Vezi folderul laboratorului 5](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 5](LAB5.gif)
+
+---
+
+## Laboratorul 6: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Integrarea serviciilor externe, API-uri și preluarea datelor în timp real.
+- **Fișiere și Cod:** [Vezi folderul laboratorului 6](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab6)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 6](LAB6.gif)
+
+---
+
+## Laboratorul 7: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Gestionarea stocării locale a datelor pe dispozitivul mobil.
+- **Fișiere și Cod:** [Vezi folderul laboratorului 7](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab7)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 7](LAB7.gif)
+
+---
+
+## Laboratorul 8: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Utilizarea elementelor native ale dispozitivului (cameră, senzori, locație).
+- **Fișiere și Cod:** [Vezi folderul laboratorului 8](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab8)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 8](LAB8.gif)
+
+---
+
+## Laboratorul 9: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Optimizarea performanței și animații în interfețele mobile.
+- **Fișiere și Cod:** [Vezi folderul laboratorului 9](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab9)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 9](LAB9.gif)
+
+---
+
+## Laboratorul 10: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Testarea aplicațiilor mobile și depanarea erorilor.
+- **Fișiere și Cod:** [Vezi folderul laboratorului 10](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab10)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 10](LAB10.gif)
+
+---
+
+## Laboratorul 11: [Titlul Lucrării / Scurtă descriere]
+- **Descriere:** Proiectul final de laborator / Integrare complexă.
+- **Fișiere și Cod:** [Vezi folderul laboratorului 11](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab11)
+- **Demonstrație Video (GIF):**  
+
+  ![Demo Lab 11](LAB11.gif)
+
+---
+
+## Tehnologii Utilizate
+- **Framework-uri & Limbaje:** React Native, Expo, JavaScript, Python
+- **Instrumente:** Git, GitHub Pages, VS Code
+
+---
+© 2026 - Oșurco Iulia | Grupa IT2401
