@@ -12,7 +12,7 @@
 
 ## Laboratorul 4: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Implementarea componentelor de bază și gestionarea stării în aplicații mobile.
-- **Fișiere și Cod:** [Vezi folderul laboratorului 4](./lab4/)
+- **Fișiere și Cod:** [Vezi folderul laboratorului 4]([./lab4/](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4/lab4))
 - **Link util:** [https://snack.expo.dev/@julia7/lab4](https://snack.expo.dev/@julia7/lab4)
 - **Demonstrație Video (GIF):**  
   
