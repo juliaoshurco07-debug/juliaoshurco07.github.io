@@ -15,7 +15,7 @@
 - **Fișiere și Cod:** [Vezi folderul laboratorului 4](./lab4/)
 - **Link util:** https://snack.expo.dev/@julia7/lab4
 - **Demonstrație Video (GIF):**  
-  > ![Demo Lab 4](./lab4/demo_lab4.gif)
+  https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/blob/main/LAB4.gif
 
 ---
 
