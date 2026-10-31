@@ -16,7 +16,7 @@
 - **Link util:** [https://snack.expo.dev/@julia7/lab4](https://snack.expo.dev/@julia7/lab4)
 - **Demonstrație Video (GIF):**  
   
-  ![Demo Lab 4](LAB4.gif)
+  ![Demo Lab 4]([LAB4.gif](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/blob/main/LAB4.gif))
 ---
 
 ## Laboratorul 5: [Titlul Lucrării / Scurtă descriere]
