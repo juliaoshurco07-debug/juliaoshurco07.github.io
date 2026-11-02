@@ -30,7 +30,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ## Laboratorul 5.2: [Titlul celei de-a doua părți]
 - **Descriere:** [Scurtă descriere pentru partea 5.2]
-- **Fișiere și Cod:** [Vezi folderul laboratorului 5_s2](https://snack.expo.dev/@julia7/lab5_s2)
+- **Fișiere și Cod:** [Vezi folderul laboratorului 5_s2](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5_s2)
 - **Link util:** [https://snack.expo.dev/@julia7/lab5_s2](https://snack.expo.dev/@julia7/lab5_s2)
 - **Demonstrație Video (GIF):**  
 
