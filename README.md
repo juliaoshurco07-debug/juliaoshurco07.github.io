@@ -24,7 +24,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 - **Link util:** [https://snack.expo.dev/@julia7/lab5_s1](https://snack.expo.dev/@julia7/lab5_s1)
 - **Demonstrație Video (GIF):**  
 
-([https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/blob/main/LAB51.gif](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/blob/main/LAB51.gif))
+![Demo LAB51]([https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/blob/main/LAB51.gif](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/blob/main/LAB51.gif))
 
 ---
 
