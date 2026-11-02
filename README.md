@@ -41,6 +41,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 6: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Integrarea serviciilor externe, API-uri și preluarea datelor în timp real.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 6](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab6)
+- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/@julia7/lab6)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 6](LAB6.gif)
@@ -50,6 +51,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 7: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Gestionarea stocării locale a datelor pe dispozitivul mobil.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 7](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab7)
+- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 7](LAB7.gif)
@@ -59,6 +61,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 8: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Utilizarea elementelor native ale dispozitivului (cameră, senzori, locație).
 - **Fișiere și Cod:** [Vezi folderul laboratorului 8](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab8)
+- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 8](LAB8.gif)
@@ -68,6 +71,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 9: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Optimizarea performanței și animații în interfețele mobile.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 9](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab9)
+- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 9](LAB9.gif)
@@ -77,6 +81,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 10: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Testarea aplicațiilor mobile și depanarea erorilor.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 10](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab10)
+- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 10](LAB10.gif)
@@ -86,6 +91,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 11: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Proiectul final de laborator / Integrare complexă.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 11](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab11)
+- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 11](LAB11.gif)
