@@ -51,7 +51,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 7: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Gestionarea stocării locale a datelor pe dispozitivul mobil.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 7](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab7)
-- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
+- **Link util:** [https://snack.expo.dev/@julia7/lab7](https://snack.expo.dev/@julia7/lab7)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 7](LAB7.gif)
