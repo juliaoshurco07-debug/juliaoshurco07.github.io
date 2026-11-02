@@ -21,7 +21,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 5.1: [Titlul primei părți]
 - **Descriere:** [Scurtă descriere pentru partea 5.1]
 - **Fișiere și Cod:** [Vezi folderul laboratorului 5.1](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5_s1)
-- **Link util:** [https://snack.expo.dev/@julia7/lab5_1](https://snack.expo.dev/@julia7/lab5_s1)
+- **Link util:** [https://snack.expo.dev/@julia7/lab5_s1](https://snack.expo.dev/@julia7/lab5_s1)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 5.1](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/blob/main/LAB51.gif)
