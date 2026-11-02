@@ -44,7 +44,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 - **Link util:** [Adaugă linkul aici](https://snack.expo.dev/@julia7/lab6)
 - **Demonstrație Video (GIF):**  
 
-  ![Demo Lab 6](LAB6.gif)
+  ![Demo LAB6](LAB6.gif)
 
 ---
 
