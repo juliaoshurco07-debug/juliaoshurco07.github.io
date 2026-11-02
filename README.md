@@ -41,7 +41,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 6: [Titlul Lucrării / Scurtă descriere]
 - **Descriere:** Integrarea serviciilor externe, API-uri și preluarea datelor în timp real.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 6](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab6)
-- **Link util:** [https://snack.expo.dev/@julia7/lab6]
+- **Link util:** [https://snack.expo.dev/@julia7/lab6](https://snack.expo.dev/@julia7/lab6)
 - **Demonstrație Video (GIF):**  
 
   ![Demo LAB6](LAB6.gif)
