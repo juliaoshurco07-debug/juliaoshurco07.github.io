@@ -34,7 +34,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 - **Link util:** [https://snack.expo.dev/@julia7/lab5_s2](https://snack.expo.dev/@julia7/lab5_s2)
 - **Demonstrație Video (GIF):**  
 
-  ![Demo Lab 5.2](LAB5_2.gif)
+  ![Demo Lab 5_2](LAB5_2.gif)
 
 ---
 
