@@ -1,12 +1,13 @@
+---
+---
 
-@import "{{ site.theme | default: 'jekyll-theme-cayman' }}";
-
-
+/* Переопределяем цвета стандартной темы GitHub Pages */
 body {
-  background-color: #f7d6d9 !important;
+  background-color: #f2b4b8 !important;
 }
 
-header, .page-header {
+/* Перекрашиваем шапку (header), убирая старый синий фон и картинку сетки темы */
+header, .page-header, body > header {
   background-color: #e8a5a9 !important;
-  background-image: none !important; 
+  background-image: linear-gradient(135deg, #f2b4b8 0%, #e0989d 100%) !important;
 }
