@@ -90,7 +90,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ## Laboratorul 11: Construirea unui build (EAS Build) — APK instalabil
 - **Descriere:** Generarea unui pachet executabil nativ (APK) pentru platforma Android utilizând serviciul cloud EAS Build (Expo Application Services). Proiectul presupune configurarea fișierului eas.json pentru profilul de previzualizare (preview cu tipul apk), gestionarea automată a versiunilor, integrarea corectă a variabilelor de mediu la momentul compilării (EXPO_PUBLIC_*) și utilizarea uneltelor de diagnosticare pre-build (expo-doctor) pentru optimizarea resurselor și evitarea erorilor în cloud.
-- **Fișiere și Cod:** [Vezi folderul laboratorului 11](LAB11.gif)
+- **Fișiere și Cod:** [Vezi folderul laboratorului 11](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab11)
 - **Link util:** [https://snack.expo.dev/@julia7/lab11](https://snack.expo.dev/@julia7/lab11)
 - **Demonstrație Video (GIF):**  
 
