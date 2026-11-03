@@ -1,4 +1,16 @@
-.page-header {
-  background-color: #f0a8b1 !important; /* Un roz deschis frumos */
-  background-image: none !important;     /* Elimină fundalul albastru vechi în carouri */
+---
+---
+
+/* Принудительно меняем синий фон шапки на нежно-розовый для всех вариантов блоков темы */
+.page-header, 
+header, 
+#header-wrap, 
+.inner {
+  background-color: #f0a8b1 !important;
+  background-image: none !important;
+}
+
+/* Также подстрахуем градиент, если тема использует его поверх цвета */
+header {
+  background: #f0a8b1 !important;
 }
