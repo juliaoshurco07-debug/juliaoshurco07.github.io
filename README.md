@@ -9,7 +9,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ---
 
 ## Laboratorul 4: Consum API public — listă, detalii și căutare live
-- **Descriere:** Implementarea componentelor de bază și gestionarea stării în aplicații mobile.
+- **Descriere:** Implementarea unei aplicații mobile în React Native care consumă date reale de la un API public (DummyJSON). Proiectul integrează navigare în stivă (Stack Navigator) între lista de produse și ecranul de detalii bazat pe ID, căutare live, filtrare locală pe categorii și un sistem sincronizat de produse favorite.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 4]([https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4))
 - **Link util:** [https://snack.expo.dev/@julia7/lab4](https://snack.expo.dev/@julia7/lab4)
 - **Demonstrație Video (GIF):**  
@@ -18,8 +18,8 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 5.1: [Titlul primei părți]
-- **Descriere:** [Scurtă descriere pentru partea 5.1]
+## Laboratorul 5.1: Catalog pe pagini, Reîmprospătare și Tratarea Erorilor
+- **Descriere:** Implementarea unui flux avansat de date într-o listă React Native (FlatList) cu încărcare pe pagini folosind parametrii limit și skip de la DummyJSON, reîmprospătare prin tragere (RefreshControl) și o separare riguroasă a stărilor de eroare (prima încărcare, reîmprospătare și paginare suplimentară).
 - **Fișiere și Cod:** [Vezi folderul laboratorului 5.1](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5_s1)
 - **Link util:** [https://snack.expo.dev/@julia7/lab5_s1](https://snack.expo.dev/@julia7/lab5_s1)
 - **Demonstrație Video (GIF):**  
@@ -28,8 +28,8 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 5.2: [Titlul celei de-a doua părți]
-- **Descriere:** [Scurtă descriere pentru partea 5.2]
+## Laboratorul 5.2: Componente Interactive de Progres și Cronometru
+- **Descriere:** Dezvoltarea unor componente independente de interfață care utilizează hook-uri React (useEffect, useState) și temporizatoare (setInterval). Proiectul include o bară de progres determinată animată procentual și un cronometru complet cu funcționalități de start, stop și resetare.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 5_s2](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab5_s2)
 - **Link util:** [https://snack.expo.dev/@julia7/lab5_s2](https://snack.expo.dev/@julia7/lab5_s2)
 - **Demonstrație Video (GIF):**  
@@ -38,8 +38,8 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 6: [Titlul Lucrării / Scurtă descriere]
-- **Descriere:** Integrarea serviciilor externe, API-uri și preluarea datelor în timp real.
+## Laboratorul 6: Aplicație cu login simplu și persistență (AsyncStorage)
+- **Descriere:** Implementarea unui flux complet de autentificare (login/logout) bazat pe un API real (DummyJSON), cu gestionarea securizată a tokenurilor prin SecureStore/AsyncStorage și restaurarea automată a sesiunii. Proiectul include, de asemenea, un sistem de notițe locale salvate persistent, izolate și separate în funcție de ID-ul fiecărui utilizator.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 6](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab6)
 - **Link util:** [https://snack.expo.dev/@julia7/lab6](https://snack.expo.dev/@julia7/lab6)
 - **Demonstrație Video (GIF):**  
@@ -48,8 +48,8 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 7: [Titlul Lucrării / Scurtă descriere]
-- **Descriere:** Gestionarea stocării locale a datelor pe dispozitivul mobil.
+## Laboratorul 7:  Aplicație cu cameră și galerie (jurnal foto, scanner QR)
+- **Descriere:** Dezvoltarea unei aplicații mobile complexe în React Native ce utilizează capabilitățile native ale dispozitivului (expo-image-picker, expo-camera) pentru a captura și selecta imagini, tratând riguros permisiunile și anulările. Proiectul implementază copierea fișierelor multimedia într-un director permanent pentru a supraviețui repornirilor (expo-file-system), stocarea metadatelor în AsyncStorage și un scanner de coduri QR securizat, care validează datele preluate înainte de execuție.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 7](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab7)
 - **Link util:** [https://snack.expo.dev/@julia7/lab7](https://snack.expo.dev/@julia7/lab7)
 - **Demonstrație Video (GIF):**  
@@ -58,8 +58,8 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 8: [Titlul Lucrării / Scurtă descriere]
-- **Descriere:** Utilizarea elementelor native ale dispozitivului (cameră, senzori, locație).
+## Laboratorul 8: Integrare hărți și geolocație — „găsește cea mai apropiată cafenea”
+- **Descriere:** Implementarea unei aplicații mobile bazate pe geolocație (expo-location) și hărți interactive (react-native-maps). Proiectul calculează distanțele geografice folosind formula Haversine, sortează locațiile în timp real și interoghează date reale din OpenStreetMap (cu mecanism de cădere la date demo în caz de eroare). De asemenea, include funcționalități de urmărire a poziției utilizatorului (watchPositionAsync) cu eliberare corectă a resurselor și navigare externă către punctele de interes.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 8](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab8)
 - **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
 - **Demonstrație Video (GIF):**  
