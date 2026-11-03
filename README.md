@@ -68,10 +68,10 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 9: [Titlul Lucrării / Scurtă descriere]
-- **Descriere:** Optimizarea performanței și animații în interfețele mobile.
+## Laboratorul 9: Notificări locale programate — aplicație de remindere
+- **Descriere:** Implementarea unui sistem complet de notificări locale în React Native utilizând expo-notifications. Proiectul configurează canale Android și permisiuni contextuale, gestionând programarea avansată a reminderelor (după un interval, la oră exactă sau zilnic). De asemenea, include sincronizarea stării locale prin AsyncStorage cu notificările active din sistem (reconciliere) și tratarea evenimentelor de interacțiune când utilizatorul deschide o notificare.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 9](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab9)
-- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
+- **Link util:** [https://snack.expo.dev/@julia7/lab9](https://snack.expo.dev/@julia7/lab9)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 9](LAB9.gif)
