@@ -8,7 +8,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 4: [Titlul Lucrării / Scurtă descriere]
+## Laboratorul 4: Consum API public — listă, detalii și căutare live
 - **Descriere:** Implementarea componentelor de bază și gestionarea stării în aplicații mobile.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 4]([https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4))
 - **Link util:** [https://snack.expo.dev/@julia7/lab4](https://snack.expo.dev/@julia7/lab4)
