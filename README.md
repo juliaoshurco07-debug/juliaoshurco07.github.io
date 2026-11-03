@@ -74,7 +74,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 - **Link util:** [https://snack.expo.dev/@julia7/lab9](https://snack.expo.dev/@julia7/lab9)
 - **Demonstrație Video (GIF):**  
 
-  ![Demo Lab 9](LAB9.gif)
+  ![Demo Lab 9](LAB8.gif)
 
 ---
 
