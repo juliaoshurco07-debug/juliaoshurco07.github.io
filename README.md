@@ -61,7 +61,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ## Laboratorul 8: Integrare hărți și geolocație — „găsește cea mai apropiată cafenea”
 - **Descriere:** Implementarea unei aplicații mobile bazate pe geolocație (expo-location) și hărți interactive (react-native-maps). Proiectul calculează distanțele geografice folosind formula Haversine, sortează locațiile în timp real și interoghează date reale din OpenStreetMap (cu mecanism de cădere la date demo în caz de eroare). De asemenea, include funcționalități de urmărire a poziției utilizatorului (watchPositionAsync) cu eliberare corectă a resurselor și navigare externă către punctele de interes.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 8](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab8)
-- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/@julia7/lab8)
+- **Link util:** [https://snack.expo.dev/@julia7/lab8](https://snack.expo.dev/@julia7/lab8)
 - **Demonstrație Video (GIF):**  
 
   ![Demo LAB8](LAB8.gif)
