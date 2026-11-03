@@ -78,10 +78,10 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ---
 
-## Laboratorul 10: [Titlul Lucrării / Scurtă descriere]
+## Laboratorul 10: Refactorizare cu Context API pentru starea globală
 - **Descriere:** Testarea aplicațiilor mobile și depanarea erorilor.
 - **Fișiere și Cod:** [Vezi folderul laboratorului 10](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab10)
-- **Link util:** [Adaugă linkul aici](https://snack.expo.dev/)
+- **Link util:** [https://snack.expo.dev/@julia7/lab10(https://snack.expo.dev/@julia7/lab10)
 - **Demonstrație Video (GIF):**  
 
   ![Demo Lab 10](LAB10.gif)
