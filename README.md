@@ -10,7 +10,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 
 ## Laboratorul 4: Consum API public — listă, detalii și căutare live
 - **Descriere:** Implementarea unei aplicații mobile în React Native care consumă date reale de la un API public (DummyJSON). Proiectul integrează navigare în stivă (Stack Navigator) între lista de produse și ecranul de detalii bazat pe ID, căutare live, filtrare locală pe categorii și un sistem sincronizat de produse favorite.
-- **Fișiere și Cod:** [Vezi folderul laboratorului 4]([https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4))
+- **Fișiere și Cod:** [Vezi folderul laboratorului 4](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab4)
 - **Link util:** [https://snack.expo.dev/@julia7/lab4](https://snack.expo.dev/@julia7/lab4)
 - **Demonstrație Video (GIF):**  
 
