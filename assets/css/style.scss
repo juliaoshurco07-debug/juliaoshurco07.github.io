@@ -1,1 +1,12 @@
 
+@import "{{ site.theme | default: 'jekyll-theme-cayman' }}";
+
+
+body {
+  background-color: #f7d6d9 !important;
+}
+
+header, .page-header {
+  background-color: #e8a5a9 !important;
+  background-image: none !important; 
+}
