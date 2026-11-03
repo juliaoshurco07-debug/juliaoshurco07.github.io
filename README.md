@@ -64,7 +64,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 - **Link util:** [Adaugă linkul aici](https://snack.expo.dev/@julia7/lab8)
 - **Demonstrație Video (GIF):**  
 
-  ![Demo Lab 8](LAB8.gif)
+  ![Demo LAB8](LAB8.gif)
 
 ---
 
