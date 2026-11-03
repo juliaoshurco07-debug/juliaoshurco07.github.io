@@ -79,7 +79,7 @@ Bun venit în portofoliul meu digital! Această pagină conține lucrările de l
 ---
 
 ## Laboratorul 10: Refactorizare cu Context API pentru starea globală
-- **Descriere:** Testarea aplicațiilor mobile și depanarea erorilor.
+- **Descriere:** Refactorizarea unei aplicații mobile complexe prin eliminarea prop drilling-ului și separarea clară a responsabilităților. Proiectul implementează Context API și hook-uri personalizate pentru gestionarea sesiunii (AuthContext) și a notițelor (NotesContext), utilizând optimizări de randare prin useMemo și useCallback, un reducer dedicat (useReducer) pentru starea locală, precum și un context suplimentar pentru personalizarea temei vizuale (light/dark cu persistență).
 - **Fișiere și Cod:** [Vezi folderul laboratorului 10](https://github.com/juliaoshurco07-debug/juliaoshurco07.github.io/tree/main/lab10)
 - **Link util:** [https://snack.expo.dev/@julia7/lab10(https://snack.expo.dev/@julia7/lab10)
 - **Demonstrație Video (GIF):**  
